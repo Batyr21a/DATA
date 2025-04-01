@@ -1,0 +1,93 @@
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DATE INPUT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Enter number of dates:
+2
+
+Enter date #1 (day month year):
+17 01 1990
+
+Enter date #2 (day month year):
+21 04 2004
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          SORTED DATES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. January 17, 1990
+   Day of week: Wednesday
+2. April 21, 2004
+   Day of week: Wednesday
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DIFFERENCE BETWEEN FIRST AND LAST DATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Difference: 14 years, 171 months, 744 weeks, 0 days (total 5208 days)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DATE UPDATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Would you like to update a date? (yes/no):
+yes 
+Enter date number (1-2):
+1
+Selected date: 
+January 17, 1990
+
+Enter new date (day month year):
+14 03 1881
+
+Date updated successfully!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          SORTED DATES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. March 14, 1881
+   Day of week: Monday
+2. April 21, 2004
+   Day of week: Wednesday
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DIFFERENCE BETWEEN FIRST AND LAST DATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Difference: 123 years, 1477 months, 6423 weeks, 2 days (total 44963 days)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DATE INPUT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Enter number of dates:
+2
+
+Enter date #1 (day month year):
+12 17 2004
+Invalid input! Try again (day month year):
+32 10 209 
+Invalid input! Try again (day month year):
+10 10 2007
+
+Enter date #2 (day month year):
+21 04 2004
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          SORTED DATES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. April 21, 2004
+   Day of week: Wednesday
+2. October 10, 2007
+   Day of week: Wednesday
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DIFFERENCE BETWEEN FIRST AND LAST DATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Difference: 3 years, 41 months, 181 weeks, 0 days (total 1267 days)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          DATE UPDATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Would you like to update a date? (yes/no):
+no
+No updates made.
